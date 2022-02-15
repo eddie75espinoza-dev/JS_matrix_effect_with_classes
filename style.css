@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+    background: black;
+}
+h1{
+    color:orangered;
+    justify-content: center;
+    text-align: center;
+}
+canvas{
+    background-color:rgba(24, 44, 37);
+    position: absolute;
+    top: 0;
+    left: 0;
+    position: relative;
+}
